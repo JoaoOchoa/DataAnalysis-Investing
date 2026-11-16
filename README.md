@@ -1,12 +1,10 @@
 # DataAnalysis
 My investing Data Analysis project.
 
-Primeiro projeto - da plataforma Dio.
+Primeiro projeto - da plataforma Dio - Ferramenta de controle e projeção de investimentos.
 
-[Ferramenta de projeção de investimentos.xlsx](https://github.com/user-attachments/files/34919542/Ferramenta.de.projecao.de.investimentos.xlsx)
+[Ferramenta de projeção de investimentos.xlsx](https://github.com/user-attachments/files/34920841/Ferramenta.de.projecao.de.investimentos.xlsx)
 
-
-Ferramenta de controle e projeção de investimentos.
 
 Para que serve a ferramenta?
 
@@ -55,9 +53,9 @@ Como o VF e o PROCV entram nos cálculos?
 
 <br><img width="496" height="283" alt="image" src="https://github.com/user-attachments/assets/def26cf3-0000-40d7-ba8f-d0e81512548b" />
 
-<br><img width="527" height="283" alt="image" src="https://github.com/user-attachments/assets/178f55ea-466a-4cf4-994e-7c794542481e" />
+<br><img width="528" height="287" alt="image" src="https://github.com/user-attachments/assets/b1fa55b6-13a2-4571-af53-6895feadfb3f" />
 
-<br><img width="495" height="366" alt="image" src="https://github.com/user-attachments/assets/a519e4ed-f45c-48b9-a2ed-948315fe1610" />
+<br><img width="501" height="362" alt="image" src="https://github.com/user-attachments/assets/7cea48c5-b46a-40df-b3bd-0823599f39c0" />
 
 <br><img width="530" height="522" alt="image" src="https://github.com/user-attachments/assets/4bff430e-f92c-4a72-9907-f099cfbf8766" />
 
@@ -74,10 +72,13 @@ Seguem prints de simulações:
 <br>Salário: R$4.500,00
 <br>Perfis: Agressivo e conservador:
 
-<img width="822" height="832" alt="image" src="https://github.com/user-attachments/assets/43facf68-20f7-44e4-ac6c-223a9b740efd" />
-<img width="817" height="818" alt="image" src="https://github.com/user-attachments/assets/9cfcb3bb-f722-4fcb-8918-b275d3ba6cc0" />
-<img width="831" height="835" alt="image" src="https://github.com/user-attachments/assets/33f3a83c-1ac6-4f25-937e-834faf24915f" />
-<img width="821" height="817" alt="image" src="https://github.com/user-attachments/assets/b05e9221-7953-4c81-81c6-bda176ba5893" />
+<img width="867" height="656" alt="image" src="https://github.com/user-attachments/assets/4fbd4947-db72-4500-8d9a-a79a63a4bb5c" />
+<img width="866" height="552" alt="image" src="https://github.com/user-attachments/assets/ae903f88-f1c0-4482-aab2-c543a1570d2e" />
+<img width="873" height="493" alt="image" src="https://github.com/user-attachments/assets/e9e6ddee-819c-47b9-a76e-3dd8f931d4d1" />
+<img width="875" height="657" alt="image" src="https://github.com/user-attachments/assets/62743733-0e1f-4589-9d6b-2700c65ecd7e" />
+<img width="867" height="575" alt="image" src="https://github.com/user-attachments/assets/2806aa37-bfa6-4ac0-bcbc-9cb21a6be572" />
+<img width="870" height="471" alt="image" src="https://github.com/user-attachments/assets/05382b39-aed4-4cd2-b0b0-849c1985a6ee" />
+
 
 
 João Ochôa
